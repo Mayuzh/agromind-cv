@@ -1,0 +1,10 @@
+# Native Windows/CPU or general development dependencies.
+tensorflow>=2.18,<2.22
+numpy>=1.26,<3
+pillow>=10,<13
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.9,<1
+
